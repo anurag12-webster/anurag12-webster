@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-<!--
+
 **anurag12-webster/anurag12-webster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<a href="URL_REDIRECT" target="blank"><img align="center" src="https://www.pexels.com/photo/photo-of-abstract-painting-2693212/" height="100" /></a>
 
 - 🔭 I’m currently working on Python and Machine learning 
 - 🌱 I’m currently learning Artificial Intellligence and Data science
@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: Edwix
 - ⚡ Fun fact: 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=anurag12-webster)](https://git.io/streak-stats)
--->
+ 
