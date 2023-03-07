@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**anurag12-webster/anurag12-webster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 <a href="URL_REDIRECT" target="blank"><img align="center" src="https://www.pexels.com/photo/photo-of-abstract-painting-2693212/" height="100" /></a>
 
