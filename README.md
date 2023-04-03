@@ -12,6 +12,5 @@
 - 💬 Ask me about Data Analytics, Software Engineering, UX Design
 - 📫 How to reach me: anuragkanade6@gmail.com
 - 😄 Pronouns: Edwix
-- ⚡ Fun fact: 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=anurag12-webster)](https://git.io/streak-stats)
  
