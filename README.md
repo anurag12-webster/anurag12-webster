@@ -3,7 +3,7 @@
 
 
 
-<a href="URL_REDIRECT" target="blank"><img align="center" src="https://www.pexels.com/photo/photo-of-abstract-painting-2693212/" height="100" /></a>
+<a href="URL_REDIRECT" target="blank"><img align="center" src="https://www.pexels.com/photo/display-coding-programming-development-1921326/" height="100" /></a>
 
 - 🔭 I’m currently working on Python and Machine learning 
 - 🌱 I’m currently learning Artificial Intellligence and Data science
