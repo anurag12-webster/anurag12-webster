@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Anurag Kanade</h1>
-<h3 align="center">A Data analyst, UX Designer, and Researcher</h3>
+<h3 align="center">hallo</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anurag12-webster&label=Profile%20views&color=0e75b6&style=flat" alt="anurag12-webster" /> </p>
 
