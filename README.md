@@ -5,19 +5,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anurag12-webster" alt="anurag12-webster" /></a> </p>
 
-- 🔭 I’m currently working on [Profanity_engineV2](https://github.com/anurag12-webster/profanity_engineV2)
 
-- 🌱 I’m currently learning **PowerBI, Tableau, Django**
+- 🌱 I’m currently learning **Django**
 
-- 👯 I’m looking to collaborate on **Computer Vision**
+- 💬 Ask me about **Python, SQL, MongoDB,**
 
-- 👨‍💻 All of my projects are available at [anurag12-webster.github.io/](anurag12-webster.github.io/)
-
-- 💬 Ask me about **Python, MAchine Learning, SQL, MongoDB,**
-
-- 📫 How to reach me **anuragkanade6@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/anuragk12/](https://www.linkedin.com/in/anuragk12/)
+- 📫 How to reach me **You shouldn't**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
