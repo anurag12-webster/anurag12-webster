@@ -1,3 +1,4 @@
+<div align="center">  
 ## Hey 👋, I'm Anurag  
   
 
@@ -68,6 +69,8 @@
 <br/>  
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=anurag12-webster&&style=flat-square)  
+
+</div> 
   
 
 <br/>  
