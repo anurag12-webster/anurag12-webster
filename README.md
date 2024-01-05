@@ -25,7 +25,8 @@
 <br/>
 
 <div align="center">  
-## Reach me Out
+<br/>  
+<b>Passionate Software engineer, OpenSouce Contributor.<b>
 <br/>
 
 <a href="https://twitter.com/anurag_kanade12" target="_blank">
