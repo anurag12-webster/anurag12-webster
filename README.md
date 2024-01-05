@@ -3,7 +3,11 @@
 <br/>  
   
 ## Hey 👋, I'm Anurag  
-  
+<br/>
+
+![Profile views counter](https://komarev.com/ghpvc/?username=anurag12-webster&&style=flat-square)  
+
+## Passionate Software engineer from India.
 
 <div align="center">  
 <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
@@ -14,21 +18,11 @@
 <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
 </div> 
   
-
-<br/>  
-
-## Passionate Software engineer, OpenSouce Contributor.
-<br/>  
-
-  ![Profile views counter](https://komarev.com/ghpvc/?username=anurag12-webster&&style=flat-square)  
-
 <br/>
-
-<div align="center">  
-<br/>  
-<b>Passionate Software engineer, OpenSouce Contributor.<b>
+<div align="center">
+  
+## Reach me out
 <br/>
-
 <a href="https://twitter.com/anurag_kanade12" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
