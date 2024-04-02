@@ -22,7 +22,7 @@
 
 ###
 
-<h3 align="center">Passionate towards software, engineering, AI and Open-source.👨‍💻</h3>
+<h3 align="center">Passionate towards Software engineering, AI and Open-source.👨‍💻</h3>
 
 ###
 
