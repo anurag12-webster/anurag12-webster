@@ -10,18 +10,6 @@
   </a>
 </div>
 
-###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=anurag12-webster.anurag12-webster&right_color=dimgrey"  />
-</div>
-
-###
-
-<h1 align="center">I'm Anurag 👋</h1>
-
-###
-
-<h3 align="center">Passionate towards Software engineering, AI and Open-source.👨‍💻</h3>
 
 
